@@ -1,0 +1,3 @@
+[[base inimiga]]
+[[Divino]]
+[[queimadura]]

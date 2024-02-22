@@ -1,0 +1,2 @@
+[[queimadura]]
+[[base inimiga]]
