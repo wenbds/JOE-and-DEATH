@@ -1,0 +1,2 @@
+
+[[equipamento]][[items]]
